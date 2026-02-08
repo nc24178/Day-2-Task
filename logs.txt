@@ -1,0 +1,6 @@
+2026-02-05 08:11:02 | INFO | auth | User login success
+2026-02-05 08:11:20 | ERROR | db | DB timeout while fetching user profile
+2026-02-05 08:11:25 | warn | api | Slow response detected (920ms)
+BAD LINE WITHOUT SEPARATORS
+2026-02-05 08:11:50 | DEBUG | api | Debug mode message
+2026-02-05 08:12:01 | WARN | auth | Multiple failed login attempts
